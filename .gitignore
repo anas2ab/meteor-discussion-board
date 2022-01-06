@@ -1,0 +1,4 @@
+node_modules/
+### MeteorJS ###
+# default meteor build and local packages
+.meteor/local
